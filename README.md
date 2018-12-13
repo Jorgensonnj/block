@@ -1,3 +1,3 @@
 Description:
 
-A simple game made using C
+A simple game made using C.
